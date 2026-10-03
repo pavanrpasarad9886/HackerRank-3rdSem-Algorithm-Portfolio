@@ -102,6 +102,15 @@ Sort the toy prices in ascending order and purchase the cheapest toys first whil
 | Mark and Toys | O(N log N) | O(N) |
 
 ---
+## HackerRank Evidence
+
+The uploaded screenshot provides evidence of successful completion of all five required HackerRank challenges:
+
+1. Mini-Max Sum
+2. Birthday Cake Candles
+3. Insertion Sort – Part 1
+4. Binary Search – Intro to Tutorial Challenges
+5. Mark and Toys
 
 ## Repository Structure
 
@@ -124,3 +133,5 @@ HackerRank-3rdSem-Algorithm-Portfolio/
 │
 └── 05-Mark-and-Toys/
     └── solution.py
+
+
