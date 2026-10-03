@@ -112,6 +112,8 @@ The uploaded screenshot provides evidence of successful completion of all five r
 4. Binary Search – Intro to Tutorial Challenges
 5. Mark and Toys
 
+![HackerRank Accepted Evidence](./hackerrank.png)
+
 ## Repository Structure
 
 ```text
